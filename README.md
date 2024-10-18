@@ -12,8 +12,9 @@ equipment.
 The PCB can be hand-etched on a single-sized PCB, as long as jumper wires are
 added to connect all the 5V pins for the USB connections.
 
-[![Front of PCB](./preview_front_tn.jpg)](./preview_front.jpg)
-[![Back of PCB](./preview_back_tn.jpg)](./preview_back.jpg)
+[![Front render of PCB](images/preview_front_tn.jpg)](images/preview_front.jpg)[![Back render of PCB](images/preview_back_tn.jpg)](images/preview_back.jpg)
+
+[![Assembled PCB](images/pcb_assembled_tn.jpg)](images/pcb_assembled.jpg)[![Unassembled PCB](images/pcb_with_connectors_tn.jpg)](images/pcb_with_connectors.jpg)
 
 ## Bill of Materials
 
